@@ -92,17 +92,6 @@
       padding: 23px 18px 20px;
       overflow: hidden;
     }
-    .hero::after {
-      content: "S";
-      position: absolute;
-      z-index: -1;
-      right: -6vw;
-      top: 8vh;
-      color: transparent;
-      -webkit-text-stroke: 1px rgba(255,255,255,.1);
-      font: 900 76vw/.8 var(--display);
-      transform: rotate(4deg);
-    }
     .eyebrow {
       display: flex;
       align-items: center;
